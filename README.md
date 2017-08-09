@@ -1,2 +1,2 @@
 # RAT
-Requirements Acquisition Tool
+REQUIRENMENTS ACQUISITION TOOL
